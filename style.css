@@ -55,7 +55,6 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   padding: 2px 18px;
   border-radius: 30px;
   border: 1px solid rgb(236, 180, 62);
@@ -65,7 +64,6 @@
 
 .search input {
   outline: none;
-  /* background: transparent; */
   color: white;
 }
 .search i {
@@ -77,7 +75,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* height: px; */
   width: 20px;
 }
 
@@ -85,12 +82,24 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 75px;
-  padding: 12px 18px;
+  width: 80px;
+  padding: 2px 18px;
   border-radius: 30px;
   border: 1px solid rgb(236, 180, 62);
   background-color: black;
   color: white;
+}
+
+.dark{
+ background-color: rgb(236, 180, 62);
+  color: black;
+  padding: 10px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
 }
 
 .first-nav {
@@ -171,7 +180,6 @@
 /* MAIN SECTION */
 
 .main {
-  margin-top: 36px;
   background-color: black;
   color: white;
   padding-top: 8px;
@@ -348,4 +356,63 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 15px;
+}
+
+.footer{
+  background-color: rgb(38, 39, 39);
+  padding: 45px 0;
+  height: 70vh;
+  color: white;
+}
+
+.footone{
+  margin: 0 auto;
+  width: 94%;
+}
+
+.download{
+  padding: 12px 0;
+  font-size: 20px;
+}
+.applelink{
+  text-decoration: none;
+  color: white;
+}
+.apple{
+  display: flex;
+  background-color: black;
+  padding: 6px 12px;
+  width: 8rem;
+  border-radius: 6px;
+  border: 0.1px solid rgb(121, 108, 108);
+}
+
+.apple i{
+  font-size: 26px;
+}
+
+.app p{
+  font-size: 9px;
+}
+
+.app h4{
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.play{
+  display: flex;
+  background-color: black;
+  padding: 6px 12px;
+  width: 9rem;
+  border-radius: 6px;
+  border: 0.1px solid rgb(121, 108, 108);
+}
+
+.goooleplay{
+  width: 30px;
+}
+
+.playdiv{
+  padding: 12px 0;
 }
