@@ -1,3 +1,18 @@
-This is a static project with just html and CSS, focusing on the use of github, grid, float and flexbox.
+A ([[NewScientist](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)]) Page Clone
 
-The aim is to master/learn on the use of github, grid, float and flexbox
+![alt text](image-1.png)
+
+Built with
+HTML
+CSS - focusing on github, grid, float and flexbox.
+
+Live Demo
+([[Live Demo Link](file:///C:/Users/USER/Desktop/NY-position_project/index.html)])
+
+Authors
+👤 Author
+
+GitHub: ([[@Veeruby18](https://github.com/Veeruby18)])
+
+Support
+Give a ⭐️ if you like this project!
