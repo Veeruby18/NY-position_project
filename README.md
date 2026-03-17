@@ -1,18 +1,18 @@
 A ([[NewScientist](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)]) Page Clone
 
-![alt text](image-1.png)
+<img src="images/image.png"
+            alt="stone"
+          />
 
-Built with
-HTML
-CSS - focusing on github, grid, float and flexbox.
+<p>Built with</p>
+<p>HTML</p>
+<p>CSS - focusing on github, grid, float and flexbox.</p>
 
-Live Demo
-([[Live Demo Link](file:///C:/Users/USER/Desktop/NY-position_project/index.html)])
-
-Authors
+<p>Live Demo</p>
+([Live demo ])
+<p>Authors</p>
 👤 Author
 
-GitHub: ([[@Veeruby18](https://github.com/Veeruby18)])
+<p>GitHub: ([[@Veeruby18](https://github.com/Veeruby18)])</p>
 
-Support
-Give a ⭐️ if you like this project!
+<p>Give a ⭐️ if you like this project!</p>
