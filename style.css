@@ -90,8 +90,8 @@
   color: white;
 }
 
-.dark{
- background-color: rgb(236, 180, 62);
+.dark {
+  background-color: rgb(236, 180, 62);
   color: black;
   padding: 10px 18px;
   border-radius: 20px;
@@ -358,27 +358,33 @@
   gap: 15px;
 }
 
-.footer{
+.footer {
   background-color: rgb(38, 39, 39);
   padding: 45px 0;
-  height: 70vh;
+  /* height: 70vh; */
   color: white;
 }
 
-.footone{
+.footone {
   margin: 0 auto;
   width: 94%;
 }
 
-.download{
+.foottwo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+}
+
+.download {
   padding: 12px 0;
   font-size: 20px;
 }
-.applelink{
+.applelink {
   text-decoration: none;
   color: white;
 }
-.apple{
+.apple {
   display: flex;
   background-color: black;
   padding: 6px 12px;
@@ -387,20 +393,20 @@
   border: 0.1px solid rgb(121, 108, 108);
 }
 
-.apple i{
+.apple i {
   font-size: 26px;
 }
 
-.app p{
+.app p {
   font-size: 9px;
 }
 
-.app h4{
+.app h4 {
   font-size: 15px;
   font-weight: 500;
 }
 
-.play{
+.play {
   display: flex;
   background-color: black;
   padding: 6px 12px;
@@ -409,10 +415,37 @@
   border: 0.1px solid rgb(121, 108, 108);
 }
 
-.goooleplay{
+.goooleplay {
   width: 30px;
 }
 
-.playdiv{
+.playdiv {
   padding: 12px 0;
+}
+
+.footfont {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+}
+
+.footsocialone {
+  display: flex;
+  gap: 10px;
+  padding-top: 12px;
+}
+
+.footsub ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footsub ul li {
+  padding: 6px 0;
+}
+
+.footsub ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
 }
