@@ -60,8 +60,11 @@
 }
 
 .search input {
-  outline: none;
+  background-color: black;
+  border: none;
+  font-size: 16px;
   color: white;
+  outline: none;
 }
 
 .search i {
