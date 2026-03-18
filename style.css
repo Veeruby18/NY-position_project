@@ -41,13 +41,6 @@
   font-size: 16px;
 }
 
-.search input {
-  background-color: black;
-  border: none;
-  font-size: 16px;
-  color: white;
-}
-
 .search {
   display: flex;
   justify-content: space-between;
@@ -387,7 +380,6 @@
   background-color: black;
   padding: 6px 12px;
   width: 8rem;
-
   border-radius: 6px;
   border: 0.1px solid rgb(121, 108, 108);
 }
