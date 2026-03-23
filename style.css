@@ -627,26 +627,24 @@
   gap: 5px;
 }
 
-/* .link-style:after {
-  @apply bg-blue-400;
-  content: "";
-  position: absolute;
-  bottom: -20px;
-  left: 0;
-  width: 0%;
-  height: 3px;
-  transition: width 0.3s ease;
-}
-.link-style:hover:after {
-  width: 100%;
+.footcopyright p {
+  font-size: 14px;
 }
 
-.display {
-  @apply flex items-center text-gray-500 text-[14px] md:text-[14px] 2xl:text-[18px];
+.footcopyright a {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
 }
 
-.dispaly:hover {
-  transform: scale(1.1);
-  transition: 0.3s ease-in-out;
+.footcopyright i {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  padding: 8px 16px;
+  border-radius: 25px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
- */
