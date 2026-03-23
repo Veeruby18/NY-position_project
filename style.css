@@ -247,6 +247,19 @@
 
 .inbtw {
   background-color: rgb(31, 32, 43);
+  font-size: 1.125rem;
+  line-height: 1.625rem;
+  padding: 20px 15px;
+  border-radius: 5px;
+}
+
+.inbtw span {
+  color: rgb(251, 203, 5);
+}
+
+.inbtw-main p {
+  font-size: 1.125rem;
+  line-height: 1.625rem;
 }
 
 .newscitist {
@@ -357,6 +370,7 @@
 .footone {
   margin: 0 auto;
   width: 94%;
+  padding-bottom: 10px;
 }
 
 .foottwo {
@@ -366,7 +380,7 @@
 }
 
 .download {
-  padding: 12px 0;
+  /* padding: 12px 0; */
   font-size: 18px;
 }
 
@@ -439,4 +453,18 @@
   text-decoration: none;
   color: white;
   font-size: 16px;
+}
+
+.footcopyright {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 80px;
+}
+
+.backtotop {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
