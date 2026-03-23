@@ -171,12 +171,6 @@
   transition: width 0.3s ease;
 }
 
-.td-bars a {
-  text-decoration: none;
-  color: white;
-  position: relative;
-}
-
 .td-bars a::after {
   content: "";
   position: absolute;
@@ -245,7 +239,7 @@
   position: relative;
 }
 
-.td-bars a:after {
+.td-bars a::after {
   content: "";
   position: absolute;
   bottom: -2px;
@@ -256,7 +250,7 @@
   transition: width 0.3s ease;
 }
 
-.td-bars a:hover:after {
+.td-bars a:hover::after {
   width: 100%;
 }
 
