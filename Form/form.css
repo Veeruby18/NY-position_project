@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+form {
+  padding: 50px;
+  border-radius: 5px;
+  background-color: rgb(61, 54, 54);
+  display: grid;
+  width: 400px;
+  margin: 50px auto;
+}
+
+fieldset {
+  border: none;
+  display: flex;
+  gap: 20px;
+}
+
+label {
+  display: flex;
+  gap: 5px;
+}
+
+input[type="submit"] {
+  width: 100px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(77, 47, 146);
+  color: white;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: rgb(61, 54, 54);
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  resize: vertical;
+}
