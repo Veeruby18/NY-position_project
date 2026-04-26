@@ -6,7 +6,7 @@
 }
 
 form {
-  padding: 50px;
+  padding: 30px;
   border-radius: 5px;
   background-color: rgb(61, 54, 54);
   display: grid;
@@ -30,13 +30,13 @@ input[type="submit"] {
   padding: 10px;
   border: none;
   border-radius: 5px;
-  background-color: rgb(77, 47, 146);
+  background-color: rgb(36, 183, 219);
   color: white;
   cursor: pointer;
 }
 
 input[type="submit"]:hover {
-  background-color: rgb(61, 54, 54);
+  background-color: rgb(50, 38, 116);
 }
 
 textarea {
