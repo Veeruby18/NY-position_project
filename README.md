@@ -13,6 +13,8 @@ A HTML/CSS landing page inspired by [New Scientist](https://www.newscientist.com
 - index.html — main page content
 - style.css - style page content
 - Images — icon and image
+- form.html - form page content
+- form.css - form style
 
 ## Built With
 
