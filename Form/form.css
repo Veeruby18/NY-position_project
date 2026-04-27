@@ -21,6 +21,10 @@ h1 {
   font-size: 20px;
 }
 
+.label-name {
+  margin-bottom: 5px;
+}
+
 fieldset {
   border: none;
   display: flex;
