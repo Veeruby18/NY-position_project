@@ -1,12 +1,14 @@
-# New Scientist News Page Clone
+# New Scientist News Page Clone with a comment form
 
 A HTML/CSS landing page inspired by [New Scientist](https://www.newscientist.com/article/2286218-ancient-lake-in-marss-gale-crater-may-have-actually-been-a-small-pond/)
 
 ![App Screenshot](Images/image.png)
+![Comment form](Image/Comment-form.png)
 
 ## Live Demo
 
 [Live Demo link](https://veeruby18.github.io/NY-position_project/)
+[Comment form Live link](https://veeruby18.github.io/NY-position_project/Form/form.html)
 
 ## Project Files
 
