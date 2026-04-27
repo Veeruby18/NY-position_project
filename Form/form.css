@@ -15,6 +15,12 @@ form {
   margin: 50px auto;
 }
 
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
 fieldset {
   border: none;
   display: flex;
@@ -46,6 +52,11 @@ textarea {
   resize: vertical;
   border-radius: 5px;
   border: none;
+}
+
+textarea::placeholder {
+  color: #999;
+  font-size: 14px;
 }
 
 input[type="text"],
